@@ -21,8 +21,8 @@
     "base64-js": "^1.3.0",
     "ecdsa-sig-formatter": "^1.0.11",
     "fast-text-encoding": "^1.0.0",
-    "gaxios": "^4.0.0",
-    "gcp-metadata": "^4.2.0",
+    "gaxios": "git+https://github.com/KamranFekri/gaxios.git#master",
+    "gcp-metadata": "git+https://github.com/KamranFekri/gcp-metadata.git#master",
     "gtoken": "^5.0.4",
     "jws": "^4.0.0",
     "lru-cache": "^6.0.0"
